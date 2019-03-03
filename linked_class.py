@@ -64,5 +64,8 @@ class Set:
 		for item in self.my_set:
 			if not other_set.contains(item):
 		                return False
-
 	        return True
+
+
+
+	
