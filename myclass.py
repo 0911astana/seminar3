@@ -25,5 +25,6 @@ class index_child(index):
 		self.i1 = i1
 		self.i2 = i2
 		self.i3 = i3
+
 	def i3_square(self):
-                return self.i3 ** 2
+		return self.i3 ** 2
